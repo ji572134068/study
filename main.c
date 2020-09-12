@@ -18,3 +18,7 @@ void f4()
 {
 	
 }
+
+void f3web()
+{
+}
